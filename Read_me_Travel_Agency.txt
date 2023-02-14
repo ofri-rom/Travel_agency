@@ -1,8 +1,7 @@
 final project Travel Agency
 Link to the project directory on google drive - https://drive.google.com/drive/folders/1axSRhhvNfvStDMiaZmZebUPXgEngPN2a?usp=sharing
-presents:
+present:
 ofri rom:208891804
-avigail shekasta:209104314
 instructions to run the project:
 1.open visual studio.
 2.click on open project.
